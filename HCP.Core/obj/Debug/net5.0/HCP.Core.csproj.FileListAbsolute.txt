@@ -1,0 +1,12 @@
+C:\Users\asana\source\repos\HCP.Core\bin\Debug\net5.0\HCP.Core.deps.json
+C:\Users\asana\source\repos\HCP.Core\bin\Debug\net5.0\HCP.Core.dll
+C:\Users\asana\source\repos\HCP.Core\bin\Debug\net5.0\ref\HCP.Core.dll
+C:\Users\asana\source\repos\HCP.Core\bin\Debug\net5.0\HCP.Core.pdb
+C:\Users\asana\source\repos\HCP.Core\obj\Debug\net5.0\HCP.Core.csproj.AssemblyReference.cache
+C:\Users\asana\source\repos\HCP.Core\obj\Debug\net5.0\HCP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asana\source\repos\HCP.Core\obj\Debug\net5.0\HCP.Core.AssemblyInfoInputs.cache
+C:\Users\asana\source\repos\HCP.Core\obj\Debug\net5.0\HCP.Core.AssemblyInfo.cs
+C:\Users\asana\source\repos\HCP.Core\obj\Debug\net5.0\HCP.Core.csproj.CoreCompileInputs.cache
+C:\Users\asana\source\repos\HCP.Core\obj\Debug\net5.0\HCP.Core.dll
+C:\Users\asana\source\repos\HCP.Core\obj\Debug\net5.0\ref\HCP.Core.dll
+C:\Users\asana\source\repos\HCP.Core\obj\Debug\net5.0\HCP.Core.pdb
